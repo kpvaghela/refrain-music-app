@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "P:\\final project\\app\\AndroidVideoStreaming\\androidVideoStreaming\\build\\intermediates\\res\\merged\\debug\\drawable\\ico_screen_resolution.png",
+        "source": "P:\\final project\\app\\AndroidVideoStreaming\\androidVideoStreaming\\src\\main\\res\\drawable\\ico_screen_resolution.png"
+    },
+    {
+        "merged": "P:\\final project\\app\\AndroidVideoStreaming\\androidVideoStreaming\\build\\intermediates\\res\\merged\\debug\\drawable\\ico_pause.png",
+        "source": "P:\\final project\\app\\AndroidVideoStreaming\\androidVideoStreaming\\src\\main\\res\\drawable\\ico_pause.png"
+    },
+    {
+        "merged": "P:\\final project\\app\\AndroidVideoStreaming\\androidVideoStreaming\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.xml",
+        "source": "P:\\final project\\app\\AndroidVideoStreaming\\androidVideoStreaming\\src\\main\\res\\drawable\\bg.xml"
+    },
+    {
+        "merged": "P:\\final project\\app\\AndroidVideoStreaming\\androidVideoStreaming\\build\\intermediates\\res\\merged\\debug\\drawable\\ico_play.png",
+        "source": "P:\\final project\\app\\AndroidVideoStreaming\\androidVideoStreaming\\src\\main\\res\\drawable\\ico_play.png"
+    },
+    {
+        "merged": "P:\\final project\\app\\AndroidVideoStreaming\\androidVideoStreaming\\build\\intermediates\\res\\merged\\debug\\drawable\\ico_stop.png",
+        "source": "P:\\final project\\app\\AndroidVideoStreaming\\androidVideoStreaming\\src\\main\\res\\drawable\\ico_stop.png"
+    },
+    {
+        "merged": "P:\\final project\\app\\AndroidVideoStreaming\\androidVideoStreaming\\build\\intermediates\\res\\merged\\debug\\drawable\\ico_unmute.png",
+        "source": "P:\\final project\\app\\AndroidVideoStreaming\\androidVideoStreaming\\src\\main\\res\\drawable\\ico_unmute.png"
+    },
+    {
+        "merged": "P:\\final project\\app\\AndroidVideoStreaming\\androidVideoStreaming\\build\\intermediates\\res\\merged\\debug\\drawable\\ico_mute.png",
+        "source": "P:\\final project\\app\\AndroidVideoStreaming\\androidVideoStreaming\\src\\main\\res\\drawable\\ico_mute.png"
+    },
+    {
+        "merged": "P:\\final project\\app\\AndroidVideoStreaming\\androidVideoStreaming\\build\\intermediates\\res\\merged\\debug\\drawable\\ico_settings.png",
+        "source": "P:\\final project\\app\\AndroidVideoStreaming\\androidVideoStreaming\\src\\main\\res\\drawable\\ico_settings.png"
+    }
+]

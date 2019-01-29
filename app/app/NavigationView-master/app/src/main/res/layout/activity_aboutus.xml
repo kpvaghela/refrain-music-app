@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    >
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/my_awesome_toolbar_aboutus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F0B31D"
+        android:minHeight="?attr/actionBarSize"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <Button
+        android:id="@+id/A1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pooja R. Barot (13IT04)"
+        android:background="#f40fdd"/>
+
+    <Button
+        android:id="@+id/A2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kartvyasinh P. Vaghela (13IT59)"
+        android:background="#0f3df4"/>
+
+    <Button
+        android:id="@+id/A3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Harshalkumar A. patel (13IT29)"
+        android:background="#d6923a"/>
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SVBIT"
+        android:background="#f40f31"/>
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2016-17"
+        android:background="#93658e"/>
+
+
+</LinearLayout>
